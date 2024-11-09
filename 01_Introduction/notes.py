@@ -1,4 +1,4 @@
-**
+"""
 Day 01 - Introduction
 All code is in the main_code.py file
 **
@@ -21,7 +21,7 @@ All code is in the main_code.py file
     • Indentation matters a lot in Python, Python uses indentation to create blocks of code
     • There are two different ways to write Python comments:
         • Single Line: # Hello
-        • Multi Line: """ Hello """
+        • Multi Line: This is how all of the notes is being written right now. 
 
 
 **Data Types**
@@ -42,3 +42,4 @@ All code is in the main_code.py file
 
 **Checking Data Types**
     • To check the data type of a certain variable or data, we use the built in Python type function
+"""

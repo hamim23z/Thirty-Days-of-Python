@@ -16,7 +16,6 @@ import math
 
 
 #Level Two Exercises#
-
 #Number 1
 # Currently using Python version 3.12.3
 
