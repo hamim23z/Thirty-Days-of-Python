@@ -33,7 +33,7 @@ All code is in the main_code.py file
 
     • More complex data types are the following
         • List: An ordered collection that can store different data types. 
-        • Dictionary: An on object that is an unordered collection of data in a key value and pair format. 
+        • Dictionary: An object that is an unordered collection of data in a key value and pair format. 
         • Tuple: An ordered collection that can store different data types, but it cannot be modified once
         it has been created. 
         • Set: A collection of data types that is not an ordered collection of items and it can only store
