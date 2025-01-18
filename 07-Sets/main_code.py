@@ -97,7 +97,7 @@ print("The length of the age aka age list is bigger bc it doesn't remove duplica
 So a string is a series of characters and they are enclosed in single quotes or double quotes.
 A list is created by doing [], for empty and non empty sets. Different data types can be inside them and they can be modified. Can add or remove.
 A tuple is created by doing (), for empty and non empty sets. Different data types can be inside and they cannot be modified. Cannot add or remove
-A set is created by doing set() for empty and {} for values. They cant have different data types and cannot be modied. Can add or remove.
+A set is created by doing set() for empty and {} for values. Different data types can be inside them and cannot be modied. Can add or remove.
 """
 
 
