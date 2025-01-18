@@ -183,3 +183,98 @@ And the other way is the same for them, just change the functions and whatnot.
     -> print(string.replace("Python" , "Javascript"))
     -> Replaces something
 ```
+
+<br>
+<br>
+
+```
+**Day 05 Quiz - Testing Knowledge and Syntax**
+
+1. Creating a List
+    -> new_list = []
+
+
+2. Length of a List
+    -> For all examples below, I'll be using this list. random = ["Hamim", 21, True, "NYC", "Cool"]
+    -> print(len(random))
+
+
+3. Accessing List Items
+    -> first_item = random[0]
+    -> last_item = random[4] or random[-1]
+    
+
+4. Unpacking List Items
+    -> If we have a really long list and want to individually print things, we can unpack them.
+    Let long_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    first, second, third, fourth, *rest, fifteenth = long_list
+    print(first)
+    print(second)
+    print(third)
+    print(fourth)
+    print(*rest)
+    print(fifteenth)
+
+
+5. Slicing Items
+    -> Just like slicing items from a string.
+    middle_two = random[1:3]
+    print(middle_two)
+
+
+6. Modifying Lists
+    -> Lists can be modified so in order to do it
+    random[0] = "HAMIM"
+    print(random)
+
+
+7. Checking Items
+    does_exist = "Queens" in random
+    print(does_exist_ #False
+
+
+8. Adding Items to a List
+    random.append("Queens NY")
+    print(random)
+    -> This adds to the end of a list
+
+
+9. Inserting Items Into a List
+    random.insert(2, "Yolo")
+    print(random)
+    -> This adds "Yolo" at index two of the list now
+
+
+10. Removing Items From a List
+    random.remove(21)
+    print(random)
+
+
+11. Clearing a List
+    random.clear()
+    print(random)
+    -> What this does is clear the list entirely
+
+
+12. Copying a List
+    copy_of_random = random.copy()
+    print(copy_of_random)
+
+
+13. Joining Lists
+    list_one = [1, 2, 3, 4, 5]
+    list_two = [6, 7, 8, 9, 10]
+    joining = list_one + list_two or list_one.extend(list_two)
+    print(joining) or print(list_one)
+
+
+14. Reversing a List
+    random.reverse()
+    print(random)
+
+
+15. Sorting a List
+    random.sort()
+    print(random)
+    -> This sorts the list in alphabetical order or smallest to largest
+```
