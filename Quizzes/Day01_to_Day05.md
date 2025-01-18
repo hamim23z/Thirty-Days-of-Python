@@ -230,7 +230,7 @@ And the other way is the same for them, just change the functions and whatnot.
 
 7. Checking Items
     does_exist = "Queens" in random
-    print(does_exist_ #False
+    print(does_exist) #False
 
 
 8. Adding Items to a List
